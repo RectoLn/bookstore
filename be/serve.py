@@ -20,7 +20,6 @@ def shutdown_server():
 
 
 
-
 def be_run():
     this_path = os.path.dirname(__file__)
     parent_path = os.path.dirname(this_path)
